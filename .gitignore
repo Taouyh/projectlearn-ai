@@ -1,6 +1,11 @@
 node_modules/
 frontend/node_modules/
 backend/target/
+**/effective-pom
+**/effective-pom.xml
 .idea/
 .vscode/
 *.log
+.env
+.env.*
+!.env.example
